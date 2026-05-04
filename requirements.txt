@@ -1,5 +1,0 @@
-pillow
-pytesseract
-python-docx
-layoutparser[detectron2]
-torch

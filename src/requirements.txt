@@ -1,0 +1,15 @@
+# Web-сервер
+flask>=2.3.0
+
+# YOLO-детектор
+ultralytics>=8.0.0
+
+# OCR
+pytesseract>=0.3.10
+
+# Обработка изображений
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Утилиты
+pathlib2>=2.3.7; python_version < "3.4"
