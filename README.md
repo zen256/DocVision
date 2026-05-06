@@ -168,7 +168,7 @@ DocVision/
 
 ---
 
-## Технологический стек
+## Технологический стек тут был самый крутой я
 
 - **[YOLOv8 (Ultralytics)](https://github.com/ultralytics/ultralytics)** — детекция зон документа
 - **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** — распознавание текста (rus+eng, LSTM)
